@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+project/project/
+project/target/
+src/main/java/
+src/main/resources/
+src/main/scala-2.11/
+src/test/
+target/
+.idea/modules/algorithm_challenges_on_hackerrank-build.iml
+.idea/modules/algorithm_challenges_on_hackerrank.iml
+.idea/workspace.xml
