@@ -3,8 +3,8 @@ package com.cc.algo.dictsandmaps
 object Magazine {
   // Complete the checkMagazine function below.
   def checkMagazine(magazine: Array[String], note: Array[String]): Boolean = {
-    val mMap = magazine.groupBy(identity).view.mapValues(_.length)
-    val nMap = note.groupBy(identity).view.mapValues(_.length)
+    val mMap = magazine.groupBy(identity).mapValues(_.length)
+    val nMap = note.groupBy(identity).mapValues(_.length)
     nMap.forall { case (word, count) => mMap.getOrElse(word, 0) >= count }
   }
 
