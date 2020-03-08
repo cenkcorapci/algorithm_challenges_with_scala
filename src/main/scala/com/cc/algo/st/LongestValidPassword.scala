@@ -1,4 +1,4 @@
-package com.cc.algo.softtech
+package com.cc.algo.st
 
 import scala.annotation.tailrec
 

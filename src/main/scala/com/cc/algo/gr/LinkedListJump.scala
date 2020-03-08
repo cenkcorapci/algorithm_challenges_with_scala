@@ -1,4 +1,4 @@
-package com.cc.algo.grab
+package com.cc.algo.gr
 
 import scala.annotation.tailrec
 import scala.util.Try
