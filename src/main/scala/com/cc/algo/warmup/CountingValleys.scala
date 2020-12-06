@@ -36,7 +36,7 @@ object CountingValleys {
     val s = stdin.readLine
 
     val result = countingValleys(s)
-
+    
     println(result)
 
   }
