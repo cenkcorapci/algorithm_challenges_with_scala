@@ -8,6 +8,9 @@
 # User-specific stuff:
 .idea
 .bsp
+.metals
+.bloop
+.vscode
 
 ## File-based project format:
 *.iws
