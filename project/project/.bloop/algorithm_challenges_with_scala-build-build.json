@@ -199,7 +199,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "/usr/local/Cellar/openjdk/14.0.1/libexec/openjdk.jdk/Contents/Home",
+                "home": "/Users/cenk/Library/Java/JavaVirtualMachines/openjdk-14.0.2/Contents/Home",
                 "options": [
                     "-Duser.dir=/Users/cenk/developer/challenges/algorithm_challenges_with_scala/project/project"
                 ]
