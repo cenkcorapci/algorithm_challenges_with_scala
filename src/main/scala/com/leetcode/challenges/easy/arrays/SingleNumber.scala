@@ -8,5 +8,5 @@ object SingleNumber extends App {
     if (nums.isEmpty) set.head
     else if (set.contains(nums.head)) singleNumber(nums.tail, set - nums.head)
     else singleNumber(nums.tail, set + nums.head)
-  
+
 }
