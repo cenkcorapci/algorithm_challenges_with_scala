@@ -1,4 +1,3 @@
-package org.cenkcorapci.challenges
 package com.leetcode.challenges.medium
 
 object LetterCombinationsOfAPhoneNumber extends App {

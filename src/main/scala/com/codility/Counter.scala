@@ -1,4 +1,3 @@
-package org.cenkcorapci.challenges
 package com.codility
 
 import scala.annotation.tailrec

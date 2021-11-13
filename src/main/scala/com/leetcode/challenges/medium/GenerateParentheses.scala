@@ -1,4 +1,3 @@
-package org.cenkcorapci.challenges
 package com.leetcode.challenges.medium
 
 import scala.annotation.tailrec
